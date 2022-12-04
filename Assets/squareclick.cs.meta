@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a42ff96d34d31c040a3f4040261ada0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wtokenObj: {fileID: 8039728735259318428, guid: bb9c993c2638c7a49a4d18eb39e1c434,
+      type: 3}
+  - btokenObj: {fileID: 8039728735259318428, guid: eb74f155f3bd9d042b9c5e298e8ca621,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
